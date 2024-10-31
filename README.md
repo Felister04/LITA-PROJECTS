@@ -4,18 +4,18 @@
 In this project, the objective is to analyze the sales performance of a retail store to uncover insights such as top-selling products, regional performance, and monthly sales trends. The final output is an interactive Power BI dashboard showcasing these insights.
 
 ## Table of Contents
-- Project Overview
-- Objectives
-- Dataset
-- Tools Used
-- Project Structure
-- Analysis
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Analysis](#analysis)
   1. Excel Analysis
   2. SQL Analysis
   3. Power BI Dashboard
-- Results and Insights
-- Conclusion
-- Future Work
+- [Results and Insights](#results-and-insights)
+- [Recommendations](#recommendations)
 
 ## Objectives
 The main objectives of this project are:
@@ -34,7 +34,7 @@ Description: The dataset contains information on sales transactions, products, r
 - Power BI: For creating an interactive dashboard to visualize findings.
 
 
-## Data cleaning/preparation 
+## Data cleaning and preparation 
 
 In the initial data preparation phase, we performed the following task
 1. Data loading and inspection
@@ -84,6 +84,18 @@ Visualizations Included:
 - Monthly Sales Trends: Line chart of monthly sales across the current year.
    
 ### Results and Insights
-- Top-Selling Products: [Summarize the findings here]
-- Regional Performance: [Summarize the findings here]
-- Monthly Sales Trends: [Summarize trends over the year here]
+- Top-Selling Products: Shoe is the top selling product in terms of revenue
+  ![TOP PERFORMING PRODUCT](https://github.com/user-attachments/assets/cfb8bdd5-b59e-49e6-81ed-5ef007df114b)
+
+- Regional Performance:South is the best performing region in terms of revenue
+  ![REGIONAL PERFORMANCE](https://github.com/user-attachments/assets/d8f6040d-e5f0-470e-adb8-bf787109c247)
+
+- Monthly Sales Trends: The best selling month was feburary overtime
+![MONTHLY SALES TREND OVERTIME](https://github.com/user-attachments/assets/9ac1265a-3276-4f14-9db6-a5d62305a492)
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+- Focus on expanding and promoting Gloves,Jacket and Socks as they are the least performing products
+- invest in marketing and promotion in West and North as they are the least performing region
+- invest in promotion and marketing especially in the month of April, September and December
