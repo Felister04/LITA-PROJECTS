@@ -84,6 +84,10 @@ Visualizations Included:
 - Monthly Sales Trends: Line chart of monthly sales across the current year.
    
 ### Results and Insights
+- Total revenue by product,region and month using pivot table
+  ![TOTAL REVENUE BY PRODUCT, REGION AND BY MONTH](https://github.com/user-attachments/assets/354235ab-b2db-415b-89b6-83d4787d80ff)
+
+
 - Top-Selling Products: Shoe is the top selling product in terms of revenue
   ![TOP PERFORMING PRODUCT](https://github.com/user-attachments/assets/cfb8bdd5-b59e-49e6-81ed-5ef007df114b)
 
