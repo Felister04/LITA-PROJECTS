@@ -202,3 +202,9 @@ Visualizations Included:
 
 -Subscription Trends: [Summarize trends in cancellations and renewals here]
 ![Screenshot (51)](https://github.com/user-attachments/assets/2dc92896-d7a5-48e0-95c4-54ce081ed49c)
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+- Focus on expanding and promoting Gloves,Jacket and Socks as they are the least performing products
+- invest in marketing and promotion in West and North as they are the least performing region
+- invest in promotion and marketing especially in the month of April, September and December
