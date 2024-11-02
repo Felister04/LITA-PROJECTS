@@ -92,7 +92,8 @@ Visualizations Included:
   ![TOP PERFORMING PRODUCT](https://github.com/user-attachments/assets/cfb8bdd5-b59e-49e6-81ed-5ef007df114b)
 
 - Regional Performance:South is the best performing region in terms of revenue
-  ![REGIONAL PERFORMANCE](https://github.com/user-attachments/assets/d8f6040d-e5f0-470e-adb8-bf787109c247)
+![REGIONAL PERFORMANCE-](https://github.com/user-attachments/assets/eb18e8ad-25ac-4502-966a-f317725c45d0)
+
 
 - Monthly Sales Trends: The best selling month was feburary overtime
 ![MONTHLY SALES TREND OVERTIME](https://github.com/user-attachments/assets/9ac1265a-3276-4f14-9db6-a5d62305a492)
