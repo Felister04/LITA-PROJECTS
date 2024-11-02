@@ -192,6 +192,13 @@ Visualizations Included:
 
 ## Results and Insights
 
-- Popular Subscription Types: [Summarize insights on subscription types here]
-Customer Segments: [Summarize findings on customer segments based on regions or other factors here]
-Subscription Trends: [Summarize trends in cancellations and renewals here]
+- Popular Subscription Types: Basic is the most popular subscription
+![Subscription type performance by revenue](https://github.com/user-attachments/assets/18f0fb5a-458f-4d47-bb16-43806d14e46e)
+
+  
+-Regional performance: [Summarize findings on customer segments based on regions or other factors here]
+![Screenshot (50)](https://github.com/user-attachments/assets/c903b0d6-cc5c-4173-b150-a416091160df)
+
+
+-Subscription Trends: [Summarize trends in cancellations and renewals here]
+![Screenshot (51)](https://github.com/user-attachments/assets/2dc92896-d7a5-48e0-95c4-54ce081ed49c)
