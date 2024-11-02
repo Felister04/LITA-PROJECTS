@@ -196,15 +196,16 @@ Visualizations Included:
 ![Subscription type performance by revenue](https://github.com/user-attachments/assets/18f0fb5a-458f-4d47-bb16-43806d14e46e)
 
   
--Regional performance: [Summarize findings on customer segments based on regions or other factors here]
+- Regional performance: East is the best performing region
 ![Screenshot (50)](https://github.com/user-attachments/assets/c903b0d6-cc5c-4173-b150-a416091160df)
 
 
--Subscription Trends: [Summarize trends in cancellations and renewals here]
+- Subscription Trends: 
 ![Screenshot (51)](https://github.com/user-attachments/assets/2dc92896-d7a5-48e0-95c4-54ce081ed49c)
+
+
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Focus on expanding and promoting Gloves,Jacket and Socks as they are the least performing products
-- invest in marketing and promotion in West and North as they are the least performing region
-- invest in promotion and marketing especially in the month of April, September and December
+- Consider giving discount for the premium and standard sunscription type, in other for this subscription types to penetrate the market
+- invest in marketing and promotion in all the regions
